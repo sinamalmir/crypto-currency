@@ -7,4 +7,9 @@ body{
     background-color: black;
     color: white;
 }
-
+.sina{
+    background: linear-gradient(50deg, rgba(15,23,42,1) 0%, rgba(15,23,42,1) 80%, rgba(44,84,59,1) 100%);
+}
+.nima{
+    background: linear-gradient(50deg, rgba(15,23,42,1) 0%, rgba(15,23,42,1) 80%, rgba(84,44,44,1) 100%);
+}
