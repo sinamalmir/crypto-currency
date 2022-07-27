@@ -19,6 +19,7 @@ function App() {
       <Route path='/setting' component={Setting} />
       <Route path='/buy-coin' component={BuyCoin} />
       <Route path='/profile' component={Profile} />
+      <Redirect to='/buy-coin' />
       <Footer />
     
     </div>
